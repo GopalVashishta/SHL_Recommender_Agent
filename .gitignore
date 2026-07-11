@@ -1,0 +1,9 @@
+.venv
+.env
+.env.*
+__pycache__
+.dockerignore
+dck.txt
+hugf
+Approach_Summary.txt
+build_approach_pdf.py
